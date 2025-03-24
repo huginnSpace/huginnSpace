@@ -1,3 +1,6 @@
+<img src="Github.jpg" alt="Bunner" width="100%" />
+
+
 ## 💫 • Hello • Привіт • Bonjour • Hola • Nǐ hǎo • Olá •
 I'm Ivan, a Digital Automation Developer.</br></br>
 I specialize in digital marketing automation, workflow design, and low-code/no-code development.</br></br>
