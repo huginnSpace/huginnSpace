@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi people, I'm Ivan, a Digital Automation and AI Intergration developer:
 Hello guys I'm here to help you understand
 
 
