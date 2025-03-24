@@ -1,9 +1,9 @@
 # 💫 • Hello • Привіт • Bonjour • Hola • Nǐ hǎo • Olá •
-I specialize in digital marketing automation, workflow design, and low-code/no-code development.
-Some of technologies I work with:
-⚡️No-code/Low-code: Make.com, n8n.io, Manychat, Webflow
-⚙️Programming: JavaScript, Python
-🌐Integrations: APIs, LLMs, webhooks, databases, others.
+I specialize in digital marketing automation, workflow design, and low-code/no-code development.</br>
+Some of technologies I work with:</br>
+⚡️No-code/Low-code: Make.com, n8n.io, Manychat, Webflow.</br>
+⚙️Programming: JavaScript, Python</br>
+🌐Integrations: APIs, LLMs, webhooks, databases, others.</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huginn.space/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ovcharenko-ivan/) 
