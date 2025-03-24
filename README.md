@@ -1,4 +1,4 @@
-<img src="Github.jpg" alt="Bunner" width="100%" />
+<img src="Banner1.jpg" alt="Bunner" width="100%" />
 
 
 ## 💫 • Hello • Привіт • Bonjour • Hola • Nǐ hǎo • Olá •
