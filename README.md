@@ -1,5 +1,5 @@
 ## 💫 • Hello • Привіт • Bonjour • Hola • Nǐ hǎo • Olá •
-I'm Ivan, a Digital Marketing Automation and AI Integration Developer.</br></br>
+I'm Ivan, a Digital Automation Developer.</br></br>
 I specialize in digital marketing automation, workflow design, and low-code/no-code development.</br></br>
 Some of technologies I work with:</br>
 ⚡️No-code/Low-code: Make.com, n8n.io, Manychat, Webflow.</br>
