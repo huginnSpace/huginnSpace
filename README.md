@@ -1,4 +1,4 @@
-# 💫 Hi people, I'm Ivan, a Digital Automation and AI Intergration developer:
+# 💫 • Hello • Привіт • Bonjour • Hola • Nǐ hǎo • Olá •
 Hello guys I'm here to help you understand
 
 
