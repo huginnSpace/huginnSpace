@@ -1,4 +1,4 @@
-##  • Hello • Привіт • Bonjour • Hola • Nǐ hǎo • Olá •
+## 💫 • Hello • Привіт • Bonjour • Hola • Nǐ hǎo • Olá •
 I specialize in digital marketing automation, workflow design, and low-code/no-code development.</br></br>
 Some of technologies I work with:</br>
 ⚡️No-code/Low-code: Make.com, n8n.io, Manychat, Webflow.</br>
